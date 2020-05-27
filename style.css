@@ -1,0 +1,38 @@
+body {
+  /*background-color: rgb(86, 141, 113);*/
+}
+
+#name {
+  color: black;
+  text-align: center;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 50px;
+}
+
+p, ul {
+  font-family: "Lucida Sans Unicode";
+  font-size: 15px;
+}
+
+img {
+  max-width: 130px;
+  max-height: 150px;
+  border-radius: 50%;
+}
+
+.headers {
+  text-align: center;
+}
+
+
+
+/*.bg {
+  background-image: url("Images/eyes.jpg");
+  height: 50%;
+  filter: blur(30px);
+  -webkit-filter: blur(30px);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;*/
+
+}

@@ -15,23 +15,28 @@
     background-color: #FFFAF0;
 }
 
+#home {
+  text-align: left;
+  font-family: "webfont";
+}
+
 #name {
   color: black;
   text-align: center;
   font-family: "webfont-thin";
-  font-size: 40px;
+  font-size: 30px;
   padding-top: 100px;
 }
 
 .main {
-  padding: 30px;
+  padding: 60px;
+  text-align: center;
 }
 
 p {
   font-family: "webfont";
   font-size: 15px;
   color: black;
-  text-align: center;
 }
 
 a {
@@ -49,5 +54,6 @@ a:visited {
 .headers {
   text-align: center;
 }
+
 
 }
